@@ -5,7 +5,7 @@ Implementation of softmax classifier on CIFAR-10 dataset
 Overview
 ============
 
-The Softmax classifier consists is implemented in 3 ways:
+The Softmax consists is implemented in 3 ways:
 * Unvectorized Version
 * Half - Vectorized Version
 * Fully Vectorized Version
